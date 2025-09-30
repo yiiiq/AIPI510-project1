@@ -1,0 +1,34 @@
+
+GULF COAST HURRICANE VULNERABILITY ANALYSIS - EXECUTIVE SUMMARY
+
+SCOPE:
+• 534 counties across 5 Gulf Coast states
+• Focus on evacuation barriers, vulnerable populations, and hurricane preparedness
+
+KEY FINDINGS:
+
+1. EVACUATION CHALLENGES:
+• 38.2% of counties (204) face severe evacuation barriers
+• 11.8% of counties have populations with limited vehicle access
+• 19.7% of counties have significant mobile home populations
+
+2. VULNERABLE POPULATIONS:
+• 50.4% of counties have high concentrations of vulnerable households
+• 4.5% of counties face significant medical vulnerability challenges
+• Most common vulnerability: Uninsur
+
+3. HURRICANE RISK PROFILE:
+• 137 counties classified as very high risk
+• 181 counties classified as high risk
+• Worst-case counties (high evacuation barriers + medical vulnerability): 8
+
+4. STATE COMPARISONS:
+• Highest average risk: Louisiana (0.708)
+• Lowest average risk: Alabama (0.578)
+
+5. CRITICAL INSIGHT:
+• Minority Language poses the greatest challenge across the Gulf Coast
+• 5 counties face 5 or more concurrent vulnerability factors
+
+RECOMMENDATION: Priority should be given to the 137 counties with
+Hurricane Risk Index scores above 0.8, focusing on evacuation planning and medical preparedness.
